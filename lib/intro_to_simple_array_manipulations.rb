@@ -45,3 +45,4 @@ end
 
 def using_delete_at(famous_robots, n)
   famous_robots.delete_at(n)
+end
